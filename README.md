@@ -6,7 +6,7 @@ Este repositório contém resumos e comentários sobre livros já lidos.
 
 ### Liderança
 
-1. [O monge e o executivo](/books/)
+1. [O monge e o executivo](/books/monge-executivo.md)
 
 ### Software
    
@@ -16,5 +16,5 @@ Este repositório contém resumos e comentários sobre livros já lidos.
 
 1. [Networking: Desenvolva sua carreira criando bons relacionamentos](/books/networking-desenvolva-sua-carreira-criando-bons-relacionamentos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI0NzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTExOTU0MjIzMjFdfQ==
 -->
